@@ -2,7 +2,7 @@
 
 Neste repositorio, há todas as informações para realizar os devidos testes com a Placa de Conectividade Lora E220. 
 
-![Alt text](Imagens/2_versão_da_placa_de_conectividade.png?raw=true "2° Versão da Placa de Conectividade Lora E220")
+![Alt text](Imagens/2_versão_da_placa_de_conectividade.png=250x250?raw=true "2° Versão da Placa de Conectividade Lora E220")
 
 ### Diagrama de blocos da placa
 ![Alt text](Imagens/Diagrama_de_blocos_PCB.png?raw=true "2° Versão da Placa de Conectividade Lora E220")
