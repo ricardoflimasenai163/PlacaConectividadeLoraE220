@@ -102,24 +102,19 @@ void loop()
       //########## CONVERTE STRING EM VETOR CHAR >> DADO RECEBIDO
       int str_len1 = dado.length() + 1;
       char dado_recebido[str_len1];
-      dado.toCharArray(dado_recebido, str_len1);
+      dado.toCharArray(dado_recebido, str_len1);     
 
-      //#################################
-
-            //########## CONVERTE STRING EM VETOR CHAR >> LATITUDE
+      //########## CONVERTE STRING EM VETOR CHAR >> LATITUDE
       str_len1 = latitude.length() + 1;
       char valor_lat[str_len1];
       latitude.toCharArray(valor_lat, str_len1);
 
-      //#################################
-
-            //########## CONVERTE STRING EM VETOR CHAR >> LONGITUDE
+      //########## CONVERTE STRING EM VETOR CHAR >> LONGITUDE
       str_len1 = longitude.length() + 1;
       char valor_long[str_len1];
       longitude.toCharArray(valor_long, str_len1);
 
-      //#################################
-
+      //######### EXIBE AS INFORMAÇÕES NO DISPLAY
       display.clear();
       display.setFixedFont( ssd1306xled_font8x16 );
       display.printFixed(0,  0, dado_recebido, STYLE_NORMAL);
