@@ -10,7 +10,8 @@ Esta PCB foi desenvolvida para suportar os seguintes dispositivos:
 
 Este projeto foi desenvolvido na IDE do Arduino e utiliza as seguintes bibliotecas:
 - [LCDGFX library for display controllers](https://github.com/lexus2k/lcdgfx)
-
+- [Ebyte LoRa E220 Series Library](https://github.com/xreef/EByte_LoRa_E220_Series_Library)
+- [TinyGPS](https://github.com/mikalhart/TinyGPS)
 
 > :warning: Não esqueça de incluir as bibliotecas na IDE do Arduino para realizar os testes e descarregar o programa.
 
