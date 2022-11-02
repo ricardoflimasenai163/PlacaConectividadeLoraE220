@@ -2,7 +2,7 @@
 
 Neste repositorio, há todas as informações para realizar os devidos testes com a Placa de Conectividade Lora E220. 
 
-<div style="width: 60%; height: 60%">
+<div style="width: 10%; height: 10%">
   
 ![Alt text](Imagens/2_versão_da_placa_de_conectividade.png?raw=true "2° Versão da Placa de Conectividade Lora E220")
   
