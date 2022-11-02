@@ -16,7 +16,7 @@ TinyGPS gps;
 void setup()
 {
   // CONFIGURA PINOS PARA LED RGB
-  pinMode(26, OUTPUT);
+  pinMode(26, OUTPUT); // LED RGB - PINO VERMELHO
   pinMode(22, OUTPUT); // LED RGB - PINO VERDE
   pinMode(21, OUTPUT); // LED RGB - PINO AZUL
   analogWrite(26, 0);
