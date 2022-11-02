@@ -3,9 +3,6 @@
 Neste repositorio, há todas as informações para realizar os devidos testes com a Placa de Conectividade Lora E220. 
 
 ![Imagem não localizada](Imagens/2_versão_da_placa_de_conectividade.png?raw=true "2° Versão da Placa de Conectividade Lora E220")
-  
-### Diagrama de blocos da placa
-![Alt text](Imagens/Diagrama_de_blocos_PCB.png?raw=true "Diagrama de Blocos")
 
 ## Descrição
 Esta PCB foi desenvolvida para suportar os seguintes dispositivos:
@@ -20,6 +17,8 @@ Este projeto foi desenvolvido na IDE do Arduino e utiliza as seguintes bibliotec
 - [TinyGPS](https://github.com/mikalhart/TinyGPS)
 
 > :warning: Não esqueça de incluir as bibliotecas na IDE do Arduino para realizar os testes e descarregar o programa.
-
+  
+### Diagrama de blocos da placa
+![Alt text](Imagens/Diagrama_de_blocos_PCB.png?raw=true "Diagrama de Blocos")
 
 
