@@ -7,6 +7,7 @@ Neste repositorio, há todas as informações para realizar os devidos testes co
 ### Diagrama de blocos da placa
 ![Alt text](Imagens/Diagrama_de_blocos_PCB.png?raw=true "Diagrama de Blocos")
 
+## Descrição
 Esta PCB foi desenvolvida para suportar os seguintes dispositivos:
 - Raspberry Pi Pico ou Raspberry Pi Pico W
 - Módulo Lora Ebyte E220
