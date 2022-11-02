@@ -9,6 +9,7 @@ Esta PCB foi desenvolvida para suportar os seguintes dispositivos:
 - Display Oled 128x64
 
 Este projeto foi desenvolvido na IDE do Arduino e utiliza as seguintes bibliotecas.
-> :warning: Most versions of this display are 5v tolerant, but please check with your supplier before connecting it to 5v!
+> :warning: Não esqueça de incluir as bibliotecas na IDE do Arduino para realizar os testes e descarregar o programa.
+
 
 
