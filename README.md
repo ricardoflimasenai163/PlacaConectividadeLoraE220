@@ -2,7 +2,7 @@
 
 Neste repositorio, há todas as informações para realizar os devidos testes com a placa de Conectividade Lora E220. 
 
-![Alt text](/Imagens/2 versão da placa de conectividade.jpg?raw=true "ST7735S TFT LCD SPI")
+![Alt text](2 versão da placa de conectividade.jpg?raw=true "ST7735S TFT LCD SPI")
 
 Esta PCB foi desenvolvida para suportar os seguintes dispositivos:
 - Raspberry Pi Pico ou Raspberry Pi Pico W
