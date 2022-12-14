@@ -1,6 +1,6 @@
 # Placa Conectividade Lora E220
 
-Neste repositorio, há todas as informações para realizar os devidos testes com a Placa de Conectividade Lora E220. 
+Neste repositorio, há todas as informações para realizar os devidos testes com a Placa de Conectividade Lora RF96. 
 
 ![Imagem não localizada](Imagens/RF29_2.JPG?raw=true "2° Versão da Placa de Conectividade Lora E220")
 
