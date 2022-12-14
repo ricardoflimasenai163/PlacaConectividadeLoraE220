@@ -2,7 +2,7 @@
 
 Neste repositorio, há todas as informações para realizar os devidos testes com a Placa de Conectividade Lora E220. 
 
-![Imagem não localizada](Imagens/RF29.jpg?raw=true "2° Versão da Placa de Conectividade Lora E220")
+![Imagem não localizada](Imagens/RF29_2.jpg?raw=true "2° Versão da Placa de Conectividade Lora E220")
 
 ## Descrição
 Esta PCB foi desenvolvida para suportar os seguintes dispositivos:
